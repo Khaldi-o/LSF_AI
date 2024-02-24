@@ -1,0 +1,3 @@
+5video_test : assi avec 5 video pour chaque signe / séquence de 20 frame
+10videp_test : debout avec 10 video pour chaque signe / séquence de 20 frame 
+10video_assis.h5 : assis avec 10 video par signe séquence de20 frame => accuracy de 0.89
