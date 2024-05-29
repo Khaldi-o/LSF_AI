@@ -2,6 +2,7 @@
 This project aims to detect and convert French Sign Language (LSF) gestures into text using computer vision techniques. The application utilizes the Mediapipe library for hand and pose detection, and a trained LSTM (Long Short-Term Memory) model for gesture classification.
 
 **Features**
+
 Real-time detection and conversion of French Sign Language gestures into text.
 Visualization of hand and pose landmarks on captured video feed.
 Training and fine-tuning of the gesture recognition model.
@@ -9,9 +10,10 @@ Easy-to-use interface for capturing and processing video data.
 
 
 **Installation**
+
 Clone the repository:
 ```
-[git clone https://github.com/Khaldi-o/LSF_AI.git
+git clone https://github.com/Khaldi-o/LSF_AI.git
 ```
 Install the required dependencies:
 ```
